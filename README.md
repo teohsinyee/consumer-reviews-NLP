@@ -4,9 +4,9 @@ Explore [ ] consumer reviews using NLP
 ## Drafting....
 
 Theory part
-1. Intro to NLP
+1. Intro to NLP (Pipeline is enough, participants can figure out the code form Jupyter notebook)
 
-Technical part
+Technical part (Not to touch the codes in depth)
 Steps:
 1. Data mining (Data extraction from Google Play Store, etc)
 2. Sentiment analysis using N-gram & POS
