@@ -8,11 +8,9 @@ Theory part
 
 Technical part (Not to touch the codes in depth)
 Steps:
-1. Data mining (Data extraction from Google Play Store, etc)
-  Reference
-2. https://www.linkedin.com/pulse/how-scrape-google-play-reviews-4-simple-steps-using-python-kundi
-3. Sentiment analysis using N-gram & POS
-4. Theme impact clustering
+1. Data mining (Data extraction from Google Play Store, etc) - Reference: https://www.linkedin.com/pulse/how-scrape-google-play-reviews-4-simple-steps-using-python-kundi
+2. Sentiment analysis using N-gram & POS
+3. Theme impact clustering
 
 CTA:
 1. Utilize Github classroom
