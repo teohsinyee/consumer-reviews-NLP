@@ -10,7 +10,9 @@ Technical part (Not to touch the codes in depth)
 Steps:
 1. Data mining (Data extraction from Google Play Store, etc) <br>
 Refer here for: [Detailed data mining steps for MySejahtera app](data-mining.md)
-2. Sentiment analysis using N-gram & POS (Detailed steps have include in Jupyter Notebook files)
+2. Sentiment analysis using N-gram & POS (Detailed steps have include in Jupyter Notebook files) <br>
+Refer here for: [Part of Speech codes](Part of Speech.ipynb)
+<br> Refer here for: [N gram codes](N-gram.ipynb)
 3. Theme impact clustering 
 
 CTA:
