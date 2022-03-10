@@ -36,3 +36,4 @@ df_busu = df_busu.join(pd.DataFrame(df_busu.pop('review').tolist()))
 
 df_busu.head()
 ```
+Reference: https://www.linkedin.com/pulse/how-scrape-google-play-reviews-4-simple-steps-using-python-kundi
