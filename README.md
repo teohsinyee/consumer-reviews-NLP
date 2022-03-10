@@ -8,8 +8,8 @@ Theory part
 
 Technical part (Not to touch the codes in depth)
 Steps:
-1. Data mining (Data extraction from Google Play Store, etc) - Reference: https://www.linkedin.com/pulse/how-scrape-google-play-reviews-4-simple-steps-using-python-kundi
-- [Detailed data mining steps for MySejahtera app](data-mining.md)
+1. Data mining (Data extraction from Google Play Store, etc) <br>
+Refer here for: [Detailed data mining steps for MySejahtera app](data-mining.md)
 2. Sentiment analysis using N-gram & POS (Detailed steps have include in Jupyter Notebook files)
 3. Theme impact clustering 
 
@@ -20,5 +20,5 @@ CTA:
 Impacts:
 1. Attended workshop with solid project to display on resume/CV
 
-REFERENCES:
+Main reference:
 https://medium.com/artefact-engineering-and-data-science/customer-reviews-use-nlp-to-gain-insights-from-your-data-4629519b518e
