@@ -9,6 +9,7 @@ Theory part
 Technical part (Not to touch the codes in depth)
 Steps:
 1. Data mining (Data extraction from Google Play Store, etc) - Reference: https://www.linkedin.com/pulse/how-scrape-google-play-reviews-4-simple-steps-using-python-kundi
+- [Detailed data mining steps for MySejahtera app](data-mining.md)
 2. Sentiment analysis using N-gram & POS (Detailed steps have include in Jupyter Notebook files)
 3. Theme impact clustering 
 
