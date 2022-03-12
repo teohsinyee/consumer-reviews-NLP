@@ -4,7 +4,11 @@ Explore [ ] consumer reviews using NLP
 ### Drafting....
 ### Intro
 1. What's the fun part of this project?
-2. (Experience sharing) 
+2. (Experience sharing) How did I get inspired from it?
+3. Will separate the workshop into 2 sections
+- Will start with theory explanation
+- Following by hands-on (Entry level Python is enough)
+
 ### Theory part
 1. Intro to NLP (Pipeline is enough, participants can figure out the code form Jupyter notebook)
 
