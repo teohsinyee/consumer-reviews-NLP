@@ -2,7 +2,9 @@
 Explore [ ] consumer reviews using NLP
 
 ### Drafting....
-
+### Intro
+1. What's the fun part of this project?
+2. (Experience sharing) 
 ### Theory part
 1. Intro to NLP (Pipeline is enough, participants can figure out the code form Jupyter notebook)
 
