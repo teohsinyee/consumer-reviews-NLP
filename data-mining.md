@@ -12,7 +12,7 @@ https://play.google.com/store/apps/details?id=my.gov.onegovappstore.mysejahtera
 
 ### 3. Scrape the Reviews <br>
 - You can specify the country and language. <br>
-- You can download reviews in different languages using ISO-Code for language. <br>
+- You can download reviews in different languages using [ISO-Code(Alpha-2)](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2) for language. <br>
 
 ```
 #US Market
