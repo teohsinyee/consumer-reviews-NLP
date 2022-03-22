@@ -20,7 +20,7 @@ Refer here for: [Detailed data mining steps for MySejahtera app](data-mining.md)
 Refer here for: [Part of Speech codes](Part_of_Speech.ipynb)
 <br> Refer here for: [N gram codes](N-gram.ipynb)
 #### 3. Theme impact clustering <br>
-- Still in research phase
+Reference: [Kaggle Title Clustering with Theme Detection](https://www.kaggle.com/code/skeller/title-clustering-with-theme-detection/notebook)
 
 ### CTA:
 #### 1. Utilize Github classroom
