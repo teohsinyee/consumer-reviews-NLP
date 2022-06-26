@@ -1,5 +1,10 @@
 # consumer-reviews-NLP
-Explore [ ] consumer reviews using NLP
+This repo could be my future workshop material. <br>
+In fact, I've completed this project(my NLP course assignment) and received 99% marks out of 100%. 
+This is my first NLP project and inspired me to venture in NLP during my internship. I found it is very interesting and want to expose this to my students.
+<br> I will try to update this repo asap when I have extra time because my current focus is fully on my internship project.
+
+Title: Explore [ ] consumer reviews using NLP
 
 ### Drafting....
 ### Intro
